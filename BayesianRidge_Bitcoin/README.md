@@ -71,4 +71,7 @@ Não constitui recomendação de investimento ou estratégia de trading.
 
 Mercados financeiros envolvem risco.
  
-![Predição do Bitcoin](images/BayesianRidge_prediction.gif)
+<p align="center">
+  <img src="images/btc_prediction.gif" width="800">
+</p>
+
