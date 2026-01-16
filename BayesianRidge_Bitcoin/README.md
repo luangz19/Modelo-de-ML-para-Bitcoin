@@ -60,13 +60,6 @@ ao longo do tempo.
 
 ---
 
-## ▶️ Como Executar
-
-1. Instale as dependências:
-```bash
-pip install -r requirements.txt
-```
-
 ⚠️  Aviso Importante
 
 Este projeto tem finalidade acadêmica e educacional.
