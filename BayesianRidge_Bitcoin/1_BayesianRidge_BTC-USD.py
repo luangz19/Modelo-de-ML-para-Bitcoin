@@ -5,7 +5,7 @@ import yfinance as yf
 import joblib
 
 # Carregando o Modelo Treinado (BayesianRidge)
-model = joblib.load("/home/luan19/Documentos/Projeto_de_Pesquisa/Mercado Financeiro/TESTE/BayesianRidge_Bitcoin/1_BayesianRidge_BTC-USD.pkl")
+model = joblib.load("/home/luan19/Documentos/Projeto_de_Pesquisa/Mercado Financeiro/Testes/BayesianRidge_Bitcoin/1_BayesianRidge_BTC-USD.pkl")
 
 # Dataset para testar o modelo treinado
 data = yf.download("BTC-USD", start="2026-01-08", end="2026-01-09", interval="5m", progress=False, auto_adjust=True, multi_level_index=False)
@@ -63,4 +63,8 @@ ax.set_title("Predição do Preço do Bitcoin (BTC-USD)")
 ax.set_xlabel("Tempo")
 ax.set_ylabel("Preço (USD)")
 ax.legend()
+
+# salvar animação
+#anim.save("BayesianRidge_prediction.gif", writer="pillow")
+
 plt.show()
