@@ -72,6 +72,6 @@ Não constitui recomendação de investimento ou estratégia de trading.
 Mercados financeiros envolvem risco.
  
 <p align="center">
-  <img src="images/btc_prediction.gif" width="800">
+  <img src="Imagens/BayesianRidge_prediction.gif" width="800">
 </p>
 
