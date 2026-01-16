@@ -1,7 +1,7 @@
 # 📈 Predição do Preço do Bitcoin com Machine Learning (Bayesian Ridge)
 
 <p align="center">
-  <img src="Imagens/BayesianRidge_prediction.gif" width="800">
+  <img src="Imagens/BayesianRidge_prediction.gif" width="950">
 </p>
 
 Este projeto aplica **Machine Learning** para prever o preço de fechamento (*Close*)
