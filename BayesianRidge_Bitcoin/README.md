@@ -1,5 +1,9 @@
 # 📈 Predição do Preço do Bitcoin com Machine Learning (Bayesian Ridge)
 
+<p align="center">
+  <img src="Imagens/BayesianRidge_prediction.gif" width="800">
+</p>
+
 Este projeto aplica **Machine Learning** para prever o preço de fechamento (*Close*)
 do Bitcoin (BTC-USD) utilizando dados históricos de alta frequência (5 minutos),
 com foco em **visualização animada** e **inferência de modelos treinados**.
@@ -68,10 +72,4 @@ pip install -r requirements.txt
 
 Este projeto tem finalidade acadêmica e educacional.
 Não constitui recomendação de investimento ou estratégia de trading.
-
 Mercados financeiros envolvem risco.
- 
-<p align="center">
-  <img src="Imagens/BayesianRidge_prediction.gif" width="800">
-</p>
-
