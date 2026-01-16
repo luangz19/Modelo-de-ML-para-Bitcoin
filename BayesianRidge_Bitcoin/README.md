@@ -17,7 +17,6 @@ em cenários com ruído e correlação entre variáveis explicativas.
 
 - Python
 - Pandas
-- NumPy
 - Scikit-learn
 - Matplotlib
 - yFinance
